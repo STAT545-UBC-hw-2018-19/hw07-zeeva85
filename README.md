@@ -62,10 +62,10 @@ I am currently attached to the [**Loewen lab**][loewenlablink] which is located 
 Click for complete list
   </summary>  
   
-42 |	:panda_face::rat::blowfish:  	
-44 |	:whale2::hamster::dolphin::rabbit:  	 
-46 |	:baby:   
-48 |	:gorilla::potato:   
+42 |	:panda_face::rat::blowfish:       	
+44 |	:whale2::hamster::dolphin::rabbit:        	 
+46 |	:baby:        
+48 |	:gorilla::potato:       
 50 |	:water_buffalo::pineapple:   
 54 |	:sheep:   
 56 |	:elephant::strawberry:    
