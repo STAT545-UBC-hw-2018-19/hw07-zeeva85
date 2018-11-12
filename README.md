@@ -60,8 +60,8 @@ I am currently attached to the [**Loewen lab**][loewenlablink] which is located 
 <details>
   <summary>
 Click for complete list
-  </summary>  
-  
+ </summary>        
+               
 42 |	:panda_face::rat::blowfish:       	
 44 |	:whale2::hamster::dolphin::rabbit:        	 
 46 |	:baby:        
