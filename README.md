@@ -3,9 +3,11 @@ About this page
 
 Welcome to my STAT545 private repository. This repository will primarily contain the study materials and assignments associated with [STAT545][Stat545Link]. 
 
-Links to the `.md` and `.rmd` "Homework 05: Factor and figure management" for the STAT545A.
+Link to "Homework 07: Building your own R package" for the STAT545A.
 
 [powers.md][powers] \| [foofactors.rmd][foofactors]  
+
+Previous task, HIGH LEVEL!!
 
 [hw001.md][hw001.md] \| [hw002.md][hw002.md] \| [hw003.md][hw003.md] \| [hw004.md][hw004.md] \| [hw005.md][hw005.md] \| [hw006.rmd][hw006.md]  
 
@@ -16,9 +18,8 @@ Links to the `.md` and `.rmd` "Homework 05: Factor and figure management" for th
 [hw003.md]: https://github.com/STAT545-UBC-students/hw03-zeeva85/blob/master/hw03_gapminder.md
 [hw004.md]: https://github.com/STAT545-UBC-students/hw04-zeeva85/blob/master/hw04_gapmider.md
 [hw005.md]: https://github.com/STAT545-UBC-students/hw05-zeeva85/blob/master/hw05_gapminder.md
-
 [hw006.md]: https://github.com/STAT545-UBC-students/hw06-zeeva85/blob/master/hwo6.md
-[hw006.rmd]: https://github.com/STAT545-UBC-students/hw06-zeeva85/blob/master/hwo6.Rmd
+
 
 [STAT545A_participation]: https://github.com/zeeva85/STAT545A_participation
 [Stat545Link]: http://stat545.com/Classroom/  
@@ -50,6 +51,11 @@ I am currently attached to the [**Loewen lab**][loewenlablink] which is located 
 16 |  :koala:  
 18 |  :lemon::carrot::tangerine:  
 20 |  :corn:  
+<details>
+  <summary>
+Click for complete list
+  </summary>  
+   
 24 |	:snail::ear_of_rice::tulip::chestnut::melon::eggplant::avocado::tomato::evergreen_tree:  	
 32 |	:four_leaf_clover::cherries::bee::crocodile:   
 34 |	:apple::pear::sunflower::fox_face:  
@@ -70,10 +76,10 @@ I am currently attached to the [**Loewen lab**][loewenlablink] which is located 
 82 |	:rhinoceros::shark:    
 90 |	:sweet_potato:    
 174|	:kiwi_fruit:  	 
-
-
-A more complete list of the organisms and their chromosome number can be found [here][WikiChromosomeNumber].
-
+</details>        
+    
+A more complete list of the organisms and their chromosome number can be found [here][WikiChromosomeNumber].    
+   
 [WikiChromosomeNumber]: https://en.wikipedia.org/wiki/List_of_organisms_by_chromosome_count
 [ChoromosomeNumberTbl]: https://github.com/STAT545-UBC-students/hw01-zeeva85#some-fun-facts-about-biology
 
