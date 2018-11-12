@@ -5,9 +5,9 @@ Welcome to my STAT545 private repository. This repository will primarily contain
 
 Links to the `.md` and `.rmd` "Homework 05: Factor and figure management" for the STAT545A.
 
-[hw006.md][hw006.md] \| [hw006.rmd][hw006.rmd]  
+[powers.md][powers] \| [foofactors.rmd][foofactors]  
 
-[hw001.md][hw001.md] \| [hw002.md][hw002.md] \| [hw003.md][hw003.md] \| [hw004.md][hw004.md] \| [hw005.md][hw005.md] 
+[hw001.md][hw001.md] \| [hw002.md][hw002.md] \| [hw003.md][hw003.md] \| [hw004.md][hw004.md] \| [hw005.md][hw005.md] \| [hw006.rmd][hw006.md]  
 
 [STAT545A_participation][STAT545A_participation]
 
