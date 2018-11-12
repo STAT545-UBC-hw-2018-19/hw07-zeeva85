@@ -1,0 +1,10 @@
+Package: gapminder2
+Type: Package
+Title: Extended gapminder dataset
+Version: 0.1.0
+Author: Seevasant Indran
+Maintainer: Seevasant Indran <zeeva85@gmail.com>
+Description: The existing gapminder package is good on its own, however the gapminder series of other datasets is included.
+License: MIT + file LICENCE
+Encoding: UTF-8
+LazyData: true
