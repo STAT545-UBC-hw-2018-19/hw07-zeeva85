@@ -51,16 +51,17 @@ I am currently attached to the [**Loewen lab**][loewenlablink] which is located 
 16 |  :koala:  
 18 |  :lemon::carrot::tangerine:  
 20 |  :corn:  
-<details>
-  <summary>
-Click for complete list
-  </summary>  
-   
 24 |	:snail::ear_of_rice::tulip::chestnut::melon::eggplant::avocado::tomato::evergreen_tree:  	
 32 |	:four_leaf_clover::cherries::bee::crocodile:   
 34 |	:apple::pear::sunflower::fox_face:  
 38 |	:grapes::pig::cat::lion::tiger:  
-40 |	:peanuts::mouse:  
+40 |	:peanuts::mouse: 
+
+<details>
+  <summary>
+Click for complete list
+  </summary>  
+  
 42 |	:panda_face::rat::blowfish:  	
 44 |	:whale2::hamster::dolphin::rabbit:  	 
 46 |	:baby:   
