@@ -1,10 +1,16 @@
 Package: gapminder2
-Type: Package
-Title: Extended gapminder dataset
-Version: 0.1.0
-Author: Seevasant Indran
-Maintainer: Seevasant Indran <zeeva85@gmail.com>
-Description: The existing gapminder package is good on its own, however the gapminder series of other datasets is included.
+Title: Additional data from gapminder
+Version: 0.0.0.1
+Authors@R: 
+    person(given = "Seevasant",
+           family = "Indran",
+           role = c("aut", "cre"),
+           email = "zeeva85@gmail.com")
+Description: An excerpt of the data available at Gapminder.org. For each of 133
+    countries, the package provides values for life expectancy, GDP per capita,
+    and population, and mean school in years for men from 25-34 years old for every five years, from 1972 to 2007..
 License: MIT + file LICENCE
+Imports: tidyverse
 Encoding: UTF-8
 LazyData: true
+RoxygenNote: 6.1.0.9000
