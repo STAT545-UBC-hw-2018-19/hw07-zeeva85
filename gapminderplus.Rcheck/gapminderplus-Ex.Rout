@@ -56,7 +56,6 @@ Read 0 items
 <0 rows> (or 0-length row.names)
 > 
 > 
-> 
 > base::assign(".dptime", (proc.time() - get(".ptime", pos = "CheckExEnv")), pos = "CheckExEnv")
 > base::cat("subset_country", base::get(".format_ptime", pos = 'CheckExEnv')(get(".dptime", pos = "CheckExEnv")), "\n", file=base::get(".ExTimings", pos = 'CheckExEnv'), append=TRUE, sep="\t")
 > ### * <FOOTER>
@@ -67,7 +66,7 @@ detaching ‘package:bindrcpp’
 
 > options(digits = 7L)
 > base::cat("Time elapsed: ", proc.time() - base::get("ptime", pos = 'CheckExEnv'),"\n")
-Time elapsed:  0.306 0.02 0.329 0 0 
+Time elapsed:  0.29 0.02 0.312 0 0 
 > grDevices::dev.off()
 null device 
           1 

@@ -42,14 +42,7 @@ Undefined global functions or variables:
 * checking Rd metadata ... OK
 * checking Rd line widths ... OK
 * checking Rd cross-references ... OK
-* checking for missing documentation entries ... WARNING
-Undocumented code objects:
-  ‘gapminder2’
-Undocumented data sets:
-  ‘gapminder2’
-All user-level objects in a package should have documentation entries.
-See chapter ‘Writing R documentation files’ in the ‘Writing R
-Extensions’ manual.
+* checking for missing documentation entries ... OK
 * checking for code/documentation mismatches ... OK
 * checking Rd \usage sections ... WARNING
 Documented arguments not in \usage in documentation object 'subset_country':
@@ -70,4 +63,4 @@ Extensions’ manual.
 * checking tests ... OK
   Running ‘testthat.R’
 * DONE
-Status: 2 WARNINGs, 1 NOTE
+Status: 1 WARNING, 1 NOTE
