@@ -10,7 +10,8 @@
 #' Provide a list in the console to subset the gapminder dataset more interactively.
 #' @examples
 #' subset_country()
-#'
+#' @import dplyr
+#' @rlang
 #' @export
 
 subset_country <- function() {
