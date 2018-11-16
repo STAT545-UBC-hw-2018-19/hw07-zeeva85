@@ -18,7 +18,7 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 6.1.0.9000
 Depends: R (>= 2.10)
 NeedsCompilation: no
-Packaged: 2018-11-16 03:28:48 UTC; seevasantindran
+Packaged: 2018-11-16 03:30:57 UTC; seevasantindran
 Author: Seevasant Indran [aut, cre]
 Maintainer: Seevasant Indran <zeeva85@gmail.com>
-Built: R 3.5.1; ; 2018-11-16 03:28:53 UTC; unix
+Built: R 3.5.1; ; 2018-11-16 03:31:03 UTC; unix
