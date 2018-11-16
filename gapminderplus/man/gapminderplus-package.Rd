@@ -4,14 +4,15 @@
 \name{gapminderplus-package}
 \alias{gapminderplus}
 \alias{gapminderplus-package}
-\title{gapminderplus: Additional data from gapminder}
+\title{gapminder2: An data package and an extention of the existing gapminder dataset with subsetting by country capabilities}
 \description{
-An excerpt of the data available at Gapminder.org. For each of 133
-    countries, the package provides values for life expectancy, GDP per capita,
-    and population, and mean school in years for men aged 25-34 years old, from 1972 to 2007.
+One more column (mean age in school) is added onto the dataset and more on the way (check raw data), and subsetting capabilities
+}
+\note{
+Future package development will provide an inclusion of further subsets and plotting options
 }
 \author{
-\strong{Maintainer}: Seevasant Indran \email{zeeva85@gmail.com}
-
+Seevasant Indran
 }
+\keyword{gapminder2}
 \keyword{internal}
