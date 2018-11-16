@@ -1,39 +1,30 @@
----
-output: github_document
----
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
-
-```{r, echo = FALSE}
-knitr::opts_chunk$set(
-  collapse = TRUE,
-  comment = "#>",
-  fig.path = "README-"
-)
-```
-
 [![Build Status](https://travis-ci.org/vincenzocoia/powers.svg?branch=master)](https://travis-ci.org/vincenzocoia/powers)
 
-__Note__: This R package is not mean to be "serious". It's just to show you are kinda cool and you can develop simple packages :cool:. 
+**Note**: This R package is not mean to be "serious". It's just to show you are kinda cool and you can develop simple packages :cool:.
 
-# gapminderplus
+gapminderplus
+=============
 
 This is an R package that has extended the gapminder dataset. This package also has included a simple `subset_country()` function which returns the mini dataset that was required for as many countries possible.
 
-## Installation
+Installation
+------------
 
 You can install powers from github with:
 
-```{r gh-installation, eval = FALSE}
+``` r
 # install.packages("devtools")
 devtools::install_github("zeeva85/gapminderplus")
 ```
 
-## Example
+Example
+-------
 
 See the vignette for more extensive use, but here's an example:
 
-```{r example, eval=FALSE}
+``` r
 # Enter empty value to end prompt
 gapminderplus::subset_country()
 
@@ -45,8 +36,9 @@ gapminderplus::subset_country()
   
 ```
 
-## For Developers
+For Developers
+--------------
 
 (Again, I don't actually intend for anyone to develop this silly and cool package, but if I did, here's what I'd write.)
 
-Develop the subset function to accept values within its function and console. Add additional dataset available in the `data-raw` folder to the `gapminder2` dataset. 
+Develop the subset function to accept values within its function and console. Add additional dataset available in the `data-raw` folder to the `gapminder2` dataset.
