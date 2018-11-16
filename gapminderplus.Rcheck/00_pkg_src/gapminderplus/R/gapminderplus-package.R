@@ -2,11 +2,10 @@
 #'
 #' One more column (mean age in school) is added onto the dataset and more on the way (check raw data), and subsetting capabilities
 #'
-#' @name gapminderplus-package
+#' @name gapminder2
 #' @author Seevasant Indran
 #' @note Future package development will provide an inclusion of further subsets and plotting options
 #' @keywords gapminder2
-#' @seealso
 #' @keywords internal
 "_PACKAGE"
 

@@ -1,4 +1,5 @@
-gapminderplus-package	gapminderplus-package
+gapminder2-package	gapminder2
+gapminderplus-package	gapminder2
 gapminder2	gapminder2
-gapminderplus	gapminderplus-package
+gapminderplus	gapminder2
 subset_country	subset_country

@@ -19,5 +19,5 @@ Type the country or countries in the console to subset the gapminder dataset mor
 Provide a list in the console to subset the gapminder dataset more interactively.
 }
 \examples{
-subset_country()
+#' subset_country()
 }

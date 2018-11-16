@@ -30,7 +30,7 @@ base::assign(".ptime", proc.time(), pos = "CheckExEnv")
 
 ### ** Examples
 
-subset_country()
+#' subset_country()
 
 
 
