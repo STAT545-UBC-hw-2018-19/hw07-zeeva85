@@ -3,3 +3,4 @@
 export(subset_country)
 import(dplyr)
 import(rlang)
+import(tidyr)

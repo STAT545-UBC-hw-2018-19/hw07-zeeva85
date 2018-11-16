@@ -12,13 +12,14 @@
 #'#' subset_country()
 #' @import dplyr
 #' @import rlang
+#' @import tidyr
 #' @export
 
 subset_country <- function() {
 
   x <- scan(what = "character")  #  The prompt that request the package names
 
-results <- dplyr::filter(gapminder2::gapminder2, gapminder2$country %in% x)
+results <- dplyr::filter(gapminderplus::gapminder2, gapminder2$country %in% x)
   return(results)
 
 }

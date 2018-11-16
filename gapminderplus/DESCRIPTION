@@ -14,7 +14,7 @@ Encoding: UTF-8
 LazyData: true
 Suggests: 
     testthat,
-    gapminder2
+    gapminderplus
 Imports: 
     dplyr,
     tidyr,
