@@ -46,12 +46,12 @@ tail(gapminder3)
 
 ......
 
-subset_country2() # Enter empty value to end prompt
+subset_country2() # Notice country format, Caps followed by lowercase, empty value ends prompt
 #> [1] country         continent       year            lifeExp        
 #> [5] pop             gdpPercap       meanSchool      infantMortality
 #> <0 rows> (or 0-length row.names)
 
-subset_country() # Enter empty value to end prompt
+subset_country() # Notice country format, Caps followed by lowercase, empty value ends prompt
 #> [1] country    continent  year       lifeExp    pop        gdpPercap 
 #> [7] meanSchool
 #> <0 rows> (or 0-length row.names)
@@ -61,7 +61,7 @@ Console view
 ------------
 ```
 # 1: Japan
-# 2:              # empty value ends input request
+# 2:              # Notice country format, Caps followed by lowercase, empty value ends prompt
 # Read 1 item 
 ```
 ```
