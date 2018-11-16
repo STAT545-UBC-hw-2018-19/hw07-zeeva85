@@ -11,7 +11,7 @@
 #' @examples
 #'#' subset_country()
 #' @import dplyr
-#' @rlang
+#' @import rlang
 #' @export
 
 subset_country <- function() {
