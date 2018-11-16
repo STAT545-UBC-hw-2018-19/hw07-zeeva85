@@ -4,9 +4,10 @@
 \name{gapminderplus}
 \alias{gapminderplus}
 \alias{gapminderplus-package}
-\title{gapminderplus: An data package and an extention of the existing gapminder dataset with subsetting by country capabilities}
+\title{gapminderplus: A data package and an extention of the existing gapminder dataset with subsetting by country capabilities}
 \description{
-One more column (mean age in school) is added onto the dataset and more on the way (check raw data), and subsetting capabilities
+Gapminder2, and subsetting capabilities
+Gapminder3, and subsetting capabilities
 }
 \note{
 Future package development will provide an inclusion of further subsets and plotting options
