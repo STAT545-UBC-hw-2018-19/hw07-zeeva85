@@ -2,9 +2,12 @@
 % Please edit documentation in R/subset_country.R
 \name{subset_country}
 \alias{subset_country}
+\alias{subset_country2}
 \title{Subset a country using a set of inputs via the console}
 \usage{
 subset_country()
+
+subset_country2()
 }
 \arguments{
 \item{Provide}{the country or countries without " " in the console after executing \code{subset_country()}.}

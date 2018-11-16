@@ -15,6 +15,8 @@
 #' @import dplyr
 #' @import rlang
 #' @import tidyr
+#'
+#' @rdname subset_country
 #' @export
 
 subset_country <- function() {
@@ -26,7 +28,9 @@ results <- dplyr::filter(gapminderplus::gapminder2, gapminder2$country %in% x)
 
 }
 
+#' @rdname subset_country
 #' @export
+
 subset_country2 <- function() {
 
   x <- scan(what = "character")  #  The prompt that request the package names
