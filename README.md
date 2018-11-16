@@ -2,7 +2,7 @@
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 [![Build Status](https://travis-ci.org/vincenzocoia/powers.svg?branch=master)](https://travis-ci.org/vincenzocoia/powers)
 
-**Note**: This R package is not mean to be "serious". It's just to show you are kinda cool and you can develop simple packages :cool:.
+**Note**: This R package is not mean to be "serious". It's just to show you are kinda cool and you can develop simple packages :sunglasses:.
 
 gapminderplus
 =============
