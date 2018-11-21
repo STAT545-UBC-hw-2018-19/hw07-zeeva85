@@ -1,5 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
+gapminderplus <img src="man/figures/logo.png" align="right" height=140/>
+
 [![Build Status](https://travis-ci.org/vincenzocoia/powers.svg?branch=master)](https://travis-ci.org/vincenzocoia/powers)
 
 **Note**: This R package is not mean to be "serious". It's just to show you are kinda cool and you can develop simple packages :sunglasses:.
@@ -12,11 +14,11 @@ This is an R package that has extended the gapminder dataset. This package also 
 Installation
 ------------
 
-You can install powers from github with:
+You can install gapminderplus from github with:
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("STAT545-UBC-students/hw07-zeeva85/gapminderplus")
+devtools::install_github("zeeva85/gapminderplus")
 ```
 
 Example
