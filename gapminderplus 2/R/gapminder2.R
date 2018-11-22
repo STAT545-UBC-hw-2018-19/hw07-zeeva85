@@ -15,4 +15,6 @@
 #' @source gapminder package
 "gapminder2"
 
+utils::globalVariables("gapminder2")
+
 
